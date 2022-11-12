@@ -1,1 +1,3 @@
 # php-basic-crud-sql
+
+Damn iam lazy, sorry just read the code...
